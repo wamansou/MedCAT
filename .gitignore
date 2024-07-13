@@ -1,5 +1,6 @@
 #Directories to be ignored fully
 /books/
+/models/
 /articles/
 /other/
 /output/
